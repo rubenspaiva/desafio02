@@ -27,6 +27,9 @@ Caso não consiga localizar a pasta scripts do python, deixe o arquivo no mesmo 
 # Execução
 Para executar o arquivo, basta abrir o cmd (prompt de comando), acessar a pasta em que os arquivos estãp localizados (features), e executar o arquivo com o seguinte comando: behave
 
+# Extra
+desafio02.py contém só uma versão resumida.
+
 # Links
 * https://selenium-python.readthedocs.io/installation.html
 * https://www.selenium.dev/documentation/en/webdriver/

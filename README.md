@@ -25,7 +25,7 @@ Além disso, é necessário colocar o chrome webdriver na pasta scripts do pytho
 Caso não consiga localizar a pasta scripts do python, deixe o arquivo no mesmo local que o arquivo .py.
 
 # Execução
-Para executar o arquivo, basta abrir o cmd (prompt de comando), acessar a pasta em que o arquivo está localizado, e executar o arquivo com o seguinte comando: python -d results desafio2.py
+Para executar o arquivo, basta abrir o cmd (prompt de comando), acessar a pasta em que os arquivos estãp localizados (features), e executar o arquivo com o seguinte comando: behave
 
 # Links
 * https://selenium-python.readthedocs.io/installation.html

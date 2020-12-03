@@ -19,7 +19,7 @@ O desafio consiste em automatizar com selenium os seguintes passos:
 5. feche o navegador
 
 # Configuração
-Após instalado todos os arquivos com sucesso, abra o cmd e instale o PIP com o comando: pip install selenium, e instale a biblioteca do selenium.
+Após instalado todos os arquivos com sucesso, abra o cmd e instale o PIP com o comando: pip install selenium, e instale a biblioteca do selenium. Também instale a webdriver-manager com o comando: pip install webdriver-manager.
 
 Além disso, é necessário colocar o chrome webdriver na pasta scripts do python instalado. Para isso, basta abrir o local do arquivo onde o python foi instalado, colar o arquivo lá, extraí-lo.
 Caso não consiga localizar a pasta scripts do python, deixe o arquivo no mesmo local que o arquivo .py.

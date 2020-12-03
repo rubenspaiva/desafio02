@@ -1,6 +1,5 @@
 from selenium import webdriver
 
-
 #1. abra o navegador
 navegador = webdriver.Chrome()
 

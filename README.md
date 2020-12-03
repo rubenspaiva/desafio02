@@ -27,8 +27,7 @@ Caso não consiga localizar a pasta scripts do python, deixe o arquivo no mesmo 
 Para executar o arquivo, basta abrir o cmd (prompt de comando), acessar a pasta em que o arquivo está localizado, e executar o arquivo com o seguinte comando: python -d results desafio2.py
 
 # Links
-* 
+* https://selenium-python.readthedocs.io/installation.html
 * https://www.python.org/downloads/
 * https://chromedriver.chromium.org/downloads
-* https://github.com/robotframework/SeleniumLibrary/
 

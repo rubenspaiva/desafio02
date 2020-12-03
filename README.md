@@ -29,7 +29,8 @@ Para executar o arquivo, basta abrir o cmd (prompt de comando), acessar a pasta 
 
 # Links
 * https://selenium-python.readthedocs.io/installation.html
+* https://www.selenium.dev/documentation/en/webdriver/
 * https://www.python.org/downloads/
 * https://chromedriver.chromium.org/downloads
-*https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html
+* https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html
 

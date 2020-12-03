@@ -12,10 +12,7 @@ def clicar_noticia(context):
     context.texto = context.browser.find_element_by_xpath('//*[@id="main"]/div[5]/ul/li[3]/a/div/span[1]').text
     context.noticia.click()
 
-@when('verifico que é a notícia certa')
-def verificar_noticia(context):
+@then('verifico que é a notícia certa e fecho o navegador')
+def verificar_noticia_e_fechar_navegador(context):
     assert (context.texto in context.browser.page_source)
-
-@then('fecho o navegador')
-def fechar_navegador(context):
     context.browser.close()

@@ -7,6 +7,7 @@ Para executar esse desafio, será necessário instalar os seguintes programas:
 * Python (última versão)
 * PIP (última versão)
 * Selenium
+* Java JRE e JDK
 * Chrome Webdriver
 
 # Features
@@ -30,4 +31,5 @@ Para executar o arquivo, basta abrir o cmd (prompt de comando), acessar a pasta 
 * https://selenium-python.readthedocs.io/installation.html
 * https://www.python.org/downloads/
 * https://chromedriver.chromium.org/downloads
+*https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html
 
